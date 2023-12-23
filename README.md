@@ -1,6 +1,6 @@
 # Projets créés
 
- j'ai créés ses projets, chacun ayant un rôle spécifique dans l'architecture :
+ J'ai créé plusieurs projets, chacun jouant un rôle spécifique dans l'architecture globale :
 
 car
 
