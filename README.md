@@ -1,4 +1,5 @@
-Projets créés
+# Projets créés
+
  j'ai créés, chacun ayant un rôle spécifique dans l'architecture :
 
 car
@@ -9,7 +10,7 @@ gateway
 
 serverEureka 
 
-Docker :
+# Docker :
 
 J'ai également préparé les fichiers Docker nécessaires pour chaque projet. Cependant, le déploiement dans Docker a rencontré des problèmes que je suis en train de résoudre.
 
